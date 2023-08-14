@@ -1,2 +1,2 @@
 # third-repo-from-terraform
-mym third resource
+my third resource
